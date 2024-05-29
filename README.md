@@ -8,22 +8,7 @@ Remove tasks
 Search for tasks
 Alphabetical sorting of tasks
 
-Installation
-Clone the repository:
 
-
-git clone https://github.com/your-username/react-todo-list.git
-Navigate into the project directory:
-
-
-cd react-todo-list
-Install dependencies:
-
-npm install
-Run the application:
-
-npm start
-Open http://localhost:3000 to view it in the browser.
 
 Usage
 Enter a task in the input field and click "Add Task" to add it to the list.
